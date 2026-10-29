@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=65&duration=4000&pause=1000&color=98FB98&center=true&vCenter=true&width=1000&height=120&lines=Shraoshi+Saha" alt="Shraoshi Saha" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=65&duration=4000&pause=1000&color=8968CD&center=true&vCenter=true&width=1000&height=120&lines=Shraoshi+Saha" alt="Shraoshi Saha" />
 
   <br>
-  <hr style="border: 1px solid #0000FF;">
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,50:6c63ff,100:c9a7ff&height=3&section=footer" width="65%" alt="Purple divider" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=23&duration=2500&pause=2000&color=743089&center=true&vCenter=true&width=800&height=50&lines=Open+to+collaborate;CSE+Student;Based+in+Bangalore&loop=true" alt="Animated introduction" />
 </div>
